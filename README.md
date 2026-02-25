@@ -1,6 +1,7 @@
 Solution for the task:
 
 "Using an object from the repository, write the functions:
+
 1)getShortDescription(car) which returns a string with a short description of brand, title, color;
 
 2)getYearAsNumber() which returns the year in numeric format;
